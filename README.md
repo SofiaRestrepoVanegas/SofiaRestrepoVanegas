@@ -1,17 +1,25 @@
-## Hi there 👋
+##
 
-<!--
-**SofiaRestrepoVanegas/SofiaRestrepoVanegas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Python](https://img.shields.io/badge/Python-05122A?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-05122A?style=flat&logo=javascript)
+![Java](https://img.shields.io/badge/Java-05122A?style=flat&logo=java&logoColor=FFA518)
+![C](https://img.shields.io/badge/C-05122A?style=flat&logo=c&logoColor=A8B9CC)
+![C++](https://img.shields.io/badge/C++-05122A?style=flat&logo=c%2B%2B&logoColor=00599C)
+![R](https://img.shields.io/badge/R-05122A?style=flat&logo=r&logoColor=276DC3)
+![React](https://img.shields.io/badge/React-05122A?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-05122A?style=flat&logo=node.js)
+![Django](https://img.shields.io/badge/Django-05122A?style=flat&logo=django&logoColor=092E20)
+![Flask](https://img.shields.io/badge/Flask-05122A?style=flat&logo=flask)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
+![HTML](https://img.shields.io/badge/HTML-05122A?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-05122A?style=flat&logo=css3&logoColor=1572B6)
+![Git](https://img.shields.io/badge/Git-05122A?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-05122A?style=flat&logo=github)
+![Markdown](https://img.shields.io/badge/Markdown-05122A?style=flat&logo=markdown)
+![VS Code](https://img.shields.io/badge/VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![RStudio](https://img.shields.io/badge/RStudio-05122A?style=flat&logo=rstudio)
+![Eclipse](https://img.shields.io/badge/Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)
+![Illustrator](https://img.shields.io/badge/Illustrator-05122A?style=flat&logo=adobe-illustrator)
+![Photoshop](https://img.shields.io/badge/Photoshop-05122A?style=flat&logo=adobe-photoshop)
+![InDesign](https://img.shields.io/badge/InDesign-05122A?style=flat&logo=adobe-indesign)
 
-Here are some ideas to get you started:
-<img width="96" height="28" alt="image" src="https://github.com/user-attachments/assets/49af6cbc-323a-4238-8bed-b419e74688c6" />
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
