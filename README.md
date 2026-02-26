@@ -1,25 +1,89 @@
-##
+# 👋 ¡Hola! Soy Sofi Restrepo  
 
-![Python](https://img.shields.io/badge/Python-05122A?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-05122A?style=flat&logo=javascript)
-![Java](https://img.shields.io/badge/Java-05122A?style=flat&logo=java&logoColor=FFA518)
-![C](https://img.shields.io/badge/C-05122A?style=flat&logo=c&logoColor=A8B9CC)
-![C++](https://img.shields.io/badge/C++-05122A?style=flat&logo=c%2B%2B&logoColor=00599C)
-![R](https://img.shields.io/badge/R-05122A?style=flat&logo=r&logoColor=276DC3)
-![React](https://img.shields.io/badge/React-05122A?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-05122A?style=flat&logo=node.js)
-![Django](https://img.shields.io/badge/Django-05122A?style=flat&logo=django&logoColor=092E20)
-![Flask](https://img.shields.io/badge/Flask-05122A?style=flat&logo=flask)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
-![HTML](https://img.shields.io/badge/HTML-05122A?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-05122A?style=flat&logo=css3&logoColor=1572B6)
-![Git](https://img.shields.io/badge/Git-05122A?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-05122A?style=flat&logo=github)
-![Markdown](https://img.shields.io/badge/Markdown-05122A?style=flat&logo=markdown)
-![VS Code](https://img.shields.io/badge/VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![RStudio](https://img.shields.io/badge/RStudio-05122A?style=flat&logo=rstudio)
-![Eclipse](https://img.shields.io/badge/Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)
-![Illustrator](https://img.shields.io/badge/Illustrator-05122A?style=flat&logo=adobe-illustrator)
-![Photoshop](https://img.shields.io/badge/Photoshop-05122A?style=flat&logo=adobe-photoshop)
-![InDesign](https://img.shields.io/badge/InDesign-05122A?style=flat&logo=adobe-indesign)
+<img src="AQUI_TU_BANNER" width="100%" />
+
+---
+
+## 👩🏻‍💻 Sobre mí
+
+🎓 Estudiante de **Ingeniería en Sistemas y Telecomunicaciones**  
+🌎 Colombia  
+💡 Apasionada por la tecnología, el desarrollo de software y las redes  
+
+Me interesa diseñar e implementar soluciones tecnológicas que integren software, infraestructura y telecomunicaciones.  
+Soy responsable, proactiva y comprometida con el aprendizaje continuo.
+
+---
+
+## 🚀 Tecnologías que uso
+
+### 💻 Lenguajes de Programación
+![Python](https://img.shields.io/badge/Python-05122A?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-05122A?style=for-the-badge&logo=java&logoColor=FFA518)
+![JavaScript](https://img.shields.io/badge/JavaScript-05122A?style=for-the-badge&logo=javascript)
+
+---
+
+### 🌐 Desarrollo Web
+![HTML](https://img.shields.io/badge/HTML5-05122A?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-05122A?style=for-the-badge&logo=css3&logoColor=1572B6)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-05122A?style=for-the-badge&logo=bootstrap&logoColor=563D7C)
+
+---
+
+### 🗄️ Bases de Datos
+![MySQL](https://img.shields.io/badge/MySQL-05122A?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-05122A?style=for-the-badge&logo=postgresql)
+
+---
+
+### 🌐 Redes y Telecomunicaciones
+- Modelo OSI  
+- TCP/IP  
+- Direccionamiento IP  
+- Fundamentos de redes  
+- Configuración básica de redes  
+
+---
+
+### 🛠️ Herramientas
+![Git](https://img.shields.io/badge/Git-05122A?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-05122A?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+
+---
+
+## 📂 Proyectos Académicos
+
+📌 Diseño de bases de datos con modelo Entidad-Relación  
+📌 Desarrollo de páginas web responsivas  
+📌 Implementación de consultas SQL  
+📌 Simulaciones de redes  
+
+---
+
+## 📚 Actualmente aprendiendo
+
+- Seguridad informática 🔐  
+- Administración de servidores 🖥️  
+- Programación orientada a objetos avanzada  
+- Telecomunicaciones digitales 📡  
+
+---
+
+## 🎯 Objetivo Profesional
+
+Convertirme en una ingeniera integral capaz de desarrollar soluciones innovadoras que integren software, redes y telecomunicaciones para aportar valor a las organizaciones.
+
+---
+
+## 📫 Contacto
+
+✉️ tuemail@email.com  
+💼 LinkedIn (si tienes)
+
+---
+
+✨ Gracias por visitar mi perfil ✨
+
 
