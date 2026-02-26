@@ -4,6 +4,7 @@
 **SofiaRestrepoVanegas/SofiaRestrepoVanegas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+<img width="96" height="28" alt="image" src="https://github.com/user-attachments/assets/49af6cbc-323a-4238-8bed-b419e74688c6" />
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
