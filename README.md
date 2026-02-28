@@ -1,4 +1,14 @@
-# 👩🏻‍💻 ¡Hola! Soy Sofi Restrepo  
+<div align="center">
+  <img src="assets/banner.png" alt="Banner perfil Sofi" width="800"/>
+</div>
+
+<div align="center">
+
+# Hola 👋🏻✨
+
+### Mi nombre es **Sofi Restrepo** y bienvenid@ a mi perfil.
+
+</div>
 
 🎓 Estudiante de Ingeniería en Sistemas y Telecomunicaciones 
 
