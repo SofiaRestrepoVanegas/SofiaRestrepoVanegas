@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner.png" alt="Banner perfil Sofi" width="800"/>
+  <img src="banner.png" alt="Banner perfil Sofi" height="300" width="800"/>
 </div>
 
 <div align="center">
