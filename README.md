@@ -60,9 +60,9 @@ Además, disfruto actividades creativas como  🎨**dibujar** y jugar 🎮 **vid
 ### ✨ Gracias por visitar mi perfil ✨
 
 <p align="center">
-  <img src="https://media.tenor.com/tiOF6SigCaEAAAAi/funny-dog.gif" width="100" />
-  <img src="https://media.tenor.com/XUX6DFHZ-l0AAAAi/cool-doge-cool-dog.gif" width="120" />
-  <img src="https://media.tenor.com/t_c6v95GzCgAAAAi/cute-pug.gif" width="100" />
+  <img src="https://media.tenor.com/tiOF6SigCaEAAAAi/funny-dog.gif" width="80" />
+  <img src="https://media.tenor.com/XUX6DFHZ-l0AAAAi/cool-doge-cool-dog.gif" width="90" />
+  <img src="https://media.tenor.com/t_c6v95GzCgAAAAi/cute-pug.gif" width="80" />
 </p>
 
 
