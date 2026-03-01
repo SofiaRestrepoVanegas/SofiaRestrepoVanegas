@@ -60,8 +60,7 @@ Además, disfruto actividades creativas como  🎨**dibujar** y jugar 🎮 **vid
 ### ✨ Gracias por visitar mi perfil ✨
 
 <div align="center">
-  <img src="https://media.tenor.com/9e9PLp2ajUAAAAAd/dancing-dog.gif" width="150"/>
-  <img src="https://media.tenor.com/images/6fae287f4ed1e0a346a8975c3f01a243/tenor.gif" width="150"/>
+  <img src="https://media.tenor.com/images/dd849b964c766d3b3d97e1fd890f2b17d3/tenor.gif" width="150"/>
 </div>
 
 
