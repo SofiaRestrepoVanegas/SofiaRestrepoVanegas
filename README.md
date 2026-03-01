@@ -48,12 +48,12 @@ Además, disfruto actividades creativas como  🎨**dibujar** y jugar 🎮 **vid
 
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="120"/>
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="120"/>
-  <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="120"/>
-</div>
+---
 
+### 📫 Contáctame
+
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)]
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]
 
 
 
