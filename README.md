@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-
+---
 # 👩🏻‍💻 ¡Hola! Soy Sofi Restrepo 👋
 
 🎓 Estudiante de **Ingeniería en Sistemas y Telecomunicaciones** 
@@ -13,7 +13,7 @@
 ✨En constante aprendizaje y explorando nuevas tecnologías✨ 
 
 </div>
-
+---
 ## 🚀 Sobre mí
 
 Actualmente me encuentro en formación como ingeniera, fortaleciendo mis conocimientos en:
