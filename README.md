@@ -19,10 +19,13 @@
 
 Actualmente me encuentro en formación como ingeniera, fortaleciendo mis conocimientos en:
 
-💻 Programación
-🗄️ Bases de datos
-🌐 Desarrollo web
-🎮 Desarrollo de videojuegos
+💻 **Programación**
+
+🗄️ **Bases de datos**
+
+🌐 **Desarrollo web**
+
+🎮 **Desarrollo de videojuegos**
 
 Además, disfruto actividades creativas como  🎨**dibujar** y jugar 🎮 **videojuegos**, lo que ha despertado mi interés por crear mis propios juegos en el futuro.
 
