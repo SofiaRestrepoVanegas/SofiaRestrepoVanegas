@@ -4,18 +4,14 @@
 
 <div align="center">
 
-# Hola 👋🏻✨
+# 👩🏻‍💻 ¡Hola! Soy Sofi Restrepo 👋
 
-### Mi nombre es **Sofi Restrepo** y bienvenid@ a mi perfil.
-
-</div>
-
-
-🎓 Soy estudiante de Ingeniería en Sistemas y Telecomunicaciones  
-🏫 Universidad de Manizales  
+### 🎓 Estudiante de Ingeniería en Sistemas y Telecomunicaciones  
+🏫 Universidad de Manizales 
 
 ✨En constante aprendizaje y explorando nuevas tecnologias✨ 
 
+</div>
 
 
 Sobre mi
