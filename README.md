@@ -57,9 +57,9 @@ Además, disfruto actividades creativas como  🎨**dibujar** y jugar 🎮 **vid
 
 ---
 
-<div align="center">
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="200"/>
-</div>
+### ✨ Gracias por visitar mi perfil ✨
+
+
 
 
 
