@@ -14,7 +14,6 @@
 
 </div>
 
-
 ## 🚀 Sobre mí
 
 Actualmente me encuentro en formación como ingeniera, fortaleciendo mis conocimientos en:
