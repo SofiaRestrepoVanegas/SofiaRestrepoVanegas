@@ -8,12 +8,14 @@
 
 ### Mi nombre es **Sofi Restrepo** y bienvenid@ a mi perfil.
 
-### 🎓 Estudiante de Ingeniería en Sistemas y Telecomunicaciones  
+</div>
+
+🎓 Estudiante de Ingeniería en Sistemas y Telecomunicaciones  
 🏫 Universidad de Manizales  
 
 ✨En constante aprendizaje y explorando nuevas tecnologias✨ 
 
-</div>
+
 
 Sobre mi
 Actualmente me encuentro en formación como ingeniera, fortaleciendo mis conocimientos en:
